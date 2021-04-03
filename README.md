@@ -1,0 +1,2 @@
+# mamdani
+malich kurs
