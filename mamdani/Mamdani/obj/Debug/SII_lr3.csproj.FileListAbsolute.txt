@@ -1,0 +1,28 @@
+C:\Users\User\Documents\Visual Studio 2013\Projects\SII_lr3\SII_lr3\bin\Debug\SII_lr3.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SII_lr3\SII_lr3\bin\Debug\SII_lr3.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SII_lr3\SII_lr3\bin\Debug\SII_lr3.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SII_lr3\SII_lr3\obj\Debug\SII_lr3.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SII_lr3\SII_lr3\obj\Debug\SII_lr3.Form1.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SII_lr3\SII_lr3\obj\Debug\SII_lr3.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SII_lr3\SII_lr3\obj\Debug\SII_lr3.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SII_lr3\SII_lr3\obj\Debug\SII_lr3.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SII_lr3\SII_lr3\obj\Debug\SII_lr3.pdb
+C:\Users\Игорь\Desktop\SII_lr3\SII_lr3\bin\Debug\SII_lr3.exe.config
+C:\Users\Игорь\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.exe
+C:\Users\Игорь\Desktop\SII_lr3\SII_lr3\bin\Debug\SII_lr3.exe
+C:\Users\Игорь\Desktop\SII_lr3\SII_lr3\bin\Debug\SII_lr3.pdb
+C:\Users\Игорь\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.Form1.resources
+C:\Users\Игорь\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.Properties.Resources.resources
+C:\Users\Игорь\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.pdb
+C:\Users\Egor\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.exe
+C:\Users\Egor\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.pdb
+C:\Users\Egor\Desktop\SII_lr3\SII_lr3\bin\Debug\SII_lr3.exe.config
+C:\Users\Egor\Desktop\SII_lr3\SII_lr3\bin\Debug\SII_lr3.exe
+C:\Users\Egor\Desktop\SII_lr3\SII_lr3\bin\Debug\SII_lr3.pdb
+C:\Users\Egor\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.csprojAssemblyReference.cache
+C:\Users\Egor\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.Form1.resources
+C:\Users\Egor\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.Properties.Resources.resources
+C:\Users\Egor\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.csproj.GenerateResource.cache
+C:\Users\Egor\Desktop\SII_lr3\SII_lr3\obj\Debug\SII_lr3.csproj.CoreCompileInputs.cache
