@@ -45,9 +45,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(129, 20);
+            this.label1.Size = new System.Drawing.Size(253, 20);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Цена на нефть:";
+            this.label1.Text = "Уникальность курсовой работы:";
             // 
             // oilPriceComboBox
             // 
@@ -55,10 +55,11 @@
             this.oilPriceComboBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.oilPriceComboBox.FormattingEnabled = true;
             this.oilPriceComboBox.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.oilPriceComboBox.Location = new System.Drawing.Point(147, 6);
+            this.oilPriceComboBox.Location = new System.Drawing.Point(271, 6);
             this.oilPriceComboBox.Name = "oilPriceComboBox";
             this.oilPriceComboBox.Size = new System.Drawing.Size(202, 28);
             this.oilPriceComboBox.TabIndex = 1;
+            this.oilPriceComboBox.SelectedIndexChanged += new System.EventHandler(this.oilPriceComboBox_SelectedIndexChanged);
             // 
             // calculateButton
             // 
@@ -118,9 +119,9 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.Location = new System.Drawing.Point(19, 61);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(214, 17);
+            this.label2.Size = new System.Drawing.Size(183, 17);
             this.label2.TabIndex = 13;
-            this.label2.Text = "Сбалансированность бюджета:";
+            this.label2.Text = "Время студента до сессии";
             // 
             // label3
             // 
@@ -147,7 +148,8 @@
             this.Controls.Add(this.oilPriceComboBox);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Алгоритм Мамдани: бюджет Саудовской Аравии";
+            this.Text = "Нечеткий вывод Мамдани: Зависимость количества времени студента до сессии от уник" +
+    "альности курсовой работы";
             this.ResumeLayout(false);
             this.PerformLayout();
 

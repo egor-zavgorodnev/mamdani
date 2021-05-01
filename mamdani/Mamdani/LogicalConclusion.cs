@@ -8,12 +8,11 @@ namespace SII_lr3
 {
     class LogicalConclusion
     {
-        string countryName; //название страны
         string background; //предпосылка
         string consequence; //следствие
 
-        string[] X; //цена на нефть в долларах США
-        string[] Y; //сбалансированность бюджета в %. 0% - сбалансированный, меньше нуля - дефицитный, больше нуля - профицитный
+        string[] X; // уникальность курсовой работы
+        string[] Y; //количество дней до сессии
 
         string[] Ax;   //предпосылки
 
@@ -25,9 +24,8 @@ namespace SII_lr3
 
         string[][] R; //правила
 
-        public LogicalConclusion(string countryName, string background, string consequence, string[] X, string[] Y, string[] Ax, double[][] A, string[] By, double[][] B, string[][] R)
+        public LogicalConclusion(string background, string consequence, string[] X, string[] Y, string[] Ax, double[][] A, string[] By, double[][] B, string[][] R)
         {
-            this.countryName = countryName;
             this.background = background;
             this.consequence = consequence;
             this.X = X;

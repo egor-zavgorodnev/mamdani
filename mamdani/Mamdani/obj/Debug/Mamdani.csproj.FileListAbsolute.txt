@@ -8,3 +8,8 @@ C:\Users\Egor\Desktop\SII_lr3\Mamdani\obj\Debug\Mamdani.csproj.GenerateResource.
 C:\Users\Egor\Desktop\SII_lr3\Mamdani\obj\Debug\Mamdani.csproj.CoreCompileInputs.cache
 C:\Users\Egor\Desktop\SII_lr3\Mamdani\obj\Debug\SII_lr3.exe
 C:\Users\Egor\Desktop\SII_lr3\Mamdani\obj\Debug\SII_lr3.pdb
+F:\java\mamdani\mamdani\Mamdani\obj\Debug\Mamdani.csprojAssemblyReference.cache
+F:\java\mamdani\mamdani\Mamdani\obj\Debug\SII_lr3.Form1.resources
+F:\java\mamdani\mamdani\Mamdani\obj\Debug\Mamdani.csproj.GenerateResource.cache
+F:\java\mamdani\mamdani\Mamdani\obj\Debug\SII_lr3.exe
+F:\java\mamdani\mamdani\Mamdani\obj\Debug\SII_lr3.pdb

@@ -1,0 +1,10 @@
+F:\java\mamdani\mamdani\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\java\mamdani\mamdani\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\java\mamdani\mamdani\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\java\mamdani\mamdani\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\java\mamdani\mamdani\WindowsFormsApp2\obj\Debug\SII_lr3.Form1.resources
+F:\java\mamdani\mamdani\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\java\mamdani\mamdani\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\java\mamdani\mamdani\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\java\mamdani\mamdani\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\java\mamdani\mamdani\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
